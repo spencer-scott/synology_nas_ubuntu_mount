@@ -1,7 +1,7 @@
-# Mount Synology NFS share to Ubuntu 20.04LTS
-Mounting a Synology NAS on Linux is simple, but can present challenges and potentially waste valuable time. This repository outlines the procedure to mount a Synology DS1821+ (DSM 7.1.1) on an Ubuntu 20 system. The outlined steps are likely compatible with other Synology models and Linux distributions, requiring minimal modifications if any.
+# Mount Synology NFS share to Ubuntu 20 & 22.04 LTS
+Mounting a Synology NAS on Linux is simple, but can present challenges and potentially waste valuable time. This repository outlines the procedure to mount a Synology DS1821+ (DSM 7.1.1) on an Ubuntu 20 & 22 system. The outlined steps are likely compatible with other Synology models and Linux distributions, requiring minimal modifications if any.
   
-## On the Ubuntu 20.04LTS System 
+## On the Ubuntu System 
 1. Click the pull-down menu icon on the top-left bar
 2. Goto `Settings`
 3. On the `Ethernet (...)` connection in use, click on the `gear`
